@@ -1,5 +1,5 @@
 This repository contains two separate projects:
-### Bakery UI App
+
 1. **BAKERY APP UI (metaproject folder)** - This project is a bakery user interface made in jetpack compose.
 2. **MUSIC PLAYER APP (madproject folder)** - This project is a music player application made in XML and Kotlin.
 
